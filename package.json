@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^16.7.18",
+    "react": "^16.7.0",
+    "typescript": "^3.2.2"
+  }
+}
